@@ -20,7 +20,7 @@ Borobudur Tales adalah sebuah platform edukatif digital yang dikembangkan untuk 
 | **Muhammad Solihin**               | MC223D5Y1069       | Machine Learning     | |
 | **Andreas Adi Prasetyo**      | MC615D5Y1588       | Machine Learning     |  |
 | **Siti Fatimah Nur Cahya**          | FC179D5X2260       | FEBE   | Membuat database, input data cerita dan gambar, membuat tampilan halaman (User: Explore dan Detail Libary, Admin : Dashboard dan Daftar Pengguna) |
-| **Maya Putri Nur Fajri**           | FC613D5X0961       | FEBE   | Membuat Rest API, membuat tampilan halaman (User:  Login, Register dan tampilan Prediksi Admin : Dashboard dan data cerita)|
+| **Maya Putri Nur Fajri**           | FC613D5X0961       | FEBE   | Membuat Rest API, membuat tampilan halaman (User:  Login, Register dan tampilan Prediksi, Admin : Dashboard dan data cerita)|
 | **Firdy Dwi Aryani**                 | FC223D5X0935       | FEBE     | Integrasi AI/ML ke Back-End, membuat tampilan halaman (User:  Home, Libary Utama, Admin : Dashboard, riwayat pengguna, profil) |
 
 ## 🕵️‍♂️ Informasi Branch
