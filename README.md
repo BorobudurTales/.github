@@ -25,7 +25,8 @@ Borobudur Tales adalah sebuah platform edukatif digital yang dikembangkan untuk 
 
 ## 🕵️‍♂️ Informasi Branch
 1. 
-2. 🧩 **Machine Learning** Pengembangan AI                                                                         |
+2. 🧩 **Machine Learning** Pengembangan AI
+                                                                        
 | Teknologi/Library              | Fungsi                                                                             |
 | ------------------------------ | ---------------------------------------------------------------------------------- |
 | **TensorFlow**                 | Framework utama untuk membangun model deep learning                                |
