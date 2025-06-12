@@ -1,11 +1,16 @@
 # BOROBUDUR TALES | DBS X DICODING CODING CAMP 2025
 
+---
+
 ## 💎 Deskripsi Proyek 
 Borobudur Tales adalah sebuah platform edukatif digital yang dikembangkan untuk membantu wisatawan memahami cerita di balik relief Candi Borobudur dengan cara mandiri dan interaktif. Proyek ini hadir karena adanya permasalahan wisatawan yang berkunjung hanya asyik berswafoto tanpa memahami nilai sejarah dan budaya dari candi tersebut. Dirancang untuk siapa saja, baik pelajar, wisatawan lokal maupun mancanegara, aplikasi ini memungkinkan pengguna mengunggah gambar relief untuk mendapatkan penjelasan otomatis tentang maknanya melalui teknologi Machine Learning berbasis ResNet50 dan Content-Based Image Retrieval. Borobudur Tales dikembangkan oleh tim Capstone project CC25-CF247 dalam program inovasi teknologi budaya, sebagai upaya nyata pelestarian warisan sejarah di era digital
 
 ![image](https://github.com/user-attachments/assets/728dcef0-ff30-4e45-84fa-79c64f2031e7)
 
 ## Demo 
+LINK
+
+---
 
 ## 🚀 Fitur Utama 
 1. User
@@ -14,6 +19,8 @@ Borobudur Tales adalah sebuah platform edukatif digital yang dikembangkan untuk 
     - Scan Relief
 2. Admin
    - Data Cerita
+
+---
 
 ## 👥 Role
 
@@ -26,7 +33,10 @@ Borobudur Tales adalah sebuah platform edukatif digital yang dikembangkan untuk 
 | **Maya Putri Nur Fajri**           | FC613D5X0961       | FEBE   | Membuat Rest API, membuat tampilan halaman (User: Dafar, Masuk, Unggah Gambar; Admin : Dashboard dan data cerita)|
 | **Firdy Dwi Aryani**                 | FC223D5X0935       | FEBE     | Integrasi AI/ML ke Back-End, membuat tampilan halaman (User:  Beranda, Pustaka; Admin : Dashboard, riwayat pengguna, profil) |
 
+---
+
 ## 🕵️‍♂️ Informasi Repository
+
 1. 🧩 **Front_End Back_End** 
 
 | Teknologi/Library      | Fungsi                                                             |
