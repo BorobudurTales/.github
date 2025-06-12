@@ -13,12 +13,12 @@ LINK
 ---
 
 ## 🚀 Fitur Utama 
-1. User
-    - Explore
-    - Pustaka
-    - Scan Relief
-2. Admin
-   - Data Cerita
+1. **User**
+    - Explore : Menyajikan **sejarah singkat Candi Borobudur** untuk memperkenalkan latar belakang, struktur, dan filosofi candi kepada pengguna.
+    - Pustaka : Berisi **kumpulan cerita-cerita relief** yang terdiri dari 160 data. Pengguna dapat membaca dan mempelajari kisah-kisah yang tergambar pada relief candi.
+    - Scan Relief : Fitur interaktif yang memungkinkan pengguna untuk **mengunggah atau memindai gambar relief**, kemudian sistem akan menampilkan jenis relief dan isi cerita yang terkandung di dalamnya.
+2. **Admin**
+   - Data Cerita : Fitur yang memungkinkan admin untuk mengelola **database cerita-cerita relief**, termasuk menambah, mengubah, atau menghapus cerita.
 
 ---
 
@@ -30,7 +30,7 @@ LINK
 | **Muhammad Solihin**               | MC223D5Y1069       | Machine Learning     | Mengumpulkan dataset, Mencari referensi dari dataset,Mengelompokkan gambar berdasarkan narasi yang sesuai, deploy model menggunakan huggingface|
 | **Andreas Adi Prasetyo**      | MC615D5Y1588       | Machine Learning     | Mengumpulkan dataset, Mengelompokkan gambar berdasarkan narasi yang sesuai, Visualisasi dan evaluasi model, membuat API ML menggunakan Fast API|
 | **Siti Fatimah Nur Cahya**          | FC179D5X2260       | FEBE   | Membuat database, input data cerita dan gambar, membuat tampilan halaman (User: Explore dan Detail Pustaka; Admin : Dashboard dan Daftar Pengguna) |
-| **Maya Putri Nur Fajri**           | FC613D5X0961       | FEBE   | Membuat Rest API, membuat tampilan halaman (User: Dafar, Masuk, Unggah Gambar; Admin : Dashboard dan data cerita)|
+| **Maya Putri Nur Fajri**           | FC613D5X0961       | FEBE   | Membuat Rest API, membuat tampilan halaman (User: Daftar, Masuk, Unggah Gambar; Admin : Dashboard dan data cerita)|
 | **Firdy Dwi Aryani**                 | FC223D5X0935       | FEBE     | Integrasi AI/ML ke Back-End, membuat tampilan halaman (User:  Beranda, Pustaka; Admin : Dashboard, riwayat pengguna, profil) |
 
 ---
@@ -49,7 +49,7 @@ LINK
 | **Figma**              | Mendesain UI/UX aplikasi sebelum pengembangan                      |
 | **Visual Studio Code** | Editor kode utama dalam proses pengembangan frontend dan backend   |
 
-3. 🧩 **Machine Learning** Pengembangan AI
+2. 🧩 **Machine Learning** Pengembangan AI
     [Repository ML](https://github.com/BorobudurTales/BorobudurTales-ML-Model)
                                                                      
 | Teknologi/Library              | Fungsi                                                                             |
