@@ -2,17 +2,17 @@
 
 ---
 
-## 💎 Deskripsi Proyek 
+## 💎 **Deskripsi Proyek** 
 Borobudur Tales adalah sebuah platform edukatif digital yang dikembangkan untuk membantu wisatawan memahami cerita di balik relief Candi Borobudur dengan cara mandiri dan interaktif. Proyek ini hadir karena adanya permasalahan wisatawan yang berkunjung hanya asyik berswafoto tanpa memahami nilai sejarah dan budaya dari candi tersebut. Dirancang untuk siapa saja, baik pelajar, wisatawan lokal maupun mancanegara, aplikasi ini memungkinkan pengguna mengunggah gambar relief untuk mendapatkan penjelasan otomatis tentang maknanya melalui teknologi Machine Learning berbasis ResNet50 dan Content-Based Image Retrieval. Borobudur Tales dikembangkan oleh tim Capstone project CC25-CF247 dalam program inovasi teknologi budaya, sebagai upaya nyata pelestarian warisan sejarah di era digital
 
 ![image](https://github.com/user-attachments/assets/728dcef0-ff30-4e45-84fa-79c64f2031e7)
 
-## Demo 
+## 🎥**Demo**
 [Demo Website Borobudur Tales](https://drive.google.com/file/d/1uY6jDRPIOldnMpexxEdgvkDmDdap-vNP/view?usp=sharing)
 
 ---
 
-## 🚀 Fitur Utama 
+## 🚀 **Fitur Utama** 
 1. **User**
     - Explore : Menyajikan **sejarah singkat Candi Borobudur** untuk memperkenalkan latar belakang, struktur, dan filosofi candi kepada pengguna.
     - Pustaka : Berisi **kumpulan cerita-cerita relief** yang terdiri dari 160 data. Pengguna dapat membaca dan mempelajari kisah-kisah yang tergambar pada relief candi.
@@ -22,9 +22,9 @@ Borobudur Tales adalah sebuah platform edukatif digital yang dikembangkan untuk 
 
 ---
 
-## 👥 Role
+## 👥 **Role**
 
-| **👩‍💻Name**                          | **🆔Student ID**     | **🎓 Learning Path**    | **Contribution/Task**                                                                                                                                                                                |
+| **👩‍💻Name**                          | **🆔Student ID**     | **🎓Learning Path**    | **Contribution/Task**                                                                                                                                                                                |
 |-----------------------------------|--------------------|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Reza Nagita Nurhazizah**   | MC179D5X1628        | Machine Learning     | Mengumpulkan dan membersihkan dataset, Mengelompokkan gambar berdasarkan narasi yang sesuai, membangun model dengan ResNet50, serta mengintegrasikan hasil prediksi dengan narasi cerita relief.  |
 | **Muhammad Solihin**               | MC223D5Y1069       | Machine Learning     | Mengumpulkan dataset, Mencari referensi dari dataset,Mengelompokkan gambar berdasarkan narasi yang sesuai, deploy model menggunakan huggingface|
@@ -35,7 +35,7 @@ Borobudur Tales adalah sebuah platform edukatif digital yang dikembangkan untuk 
 
 ---
 
-## 🕵️‍♂️ Informasi Repository
+## 🕵️‍♂️ **Informasi Repository**
 
 1. 🧩 **Front_End Back_End** 
 
