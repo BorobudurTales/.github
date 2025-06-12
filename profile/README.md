@@ -19,14 +19,14 @@ Borobudur Tales adalah sebuah platform edukatif digital yang dikembangkan untuk 
 
 | **👩‍💻Name**                          | **🆔Student ID**     | **🎓 Learning Path**    | **Contribution/Task**                                                                                                                                                                                |
 |-----------------------------------|--------------------|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Reza Nagita Nurhazizah**   | MC179D5X1628        | Machine Learning     | Mengumpulkan dan membersihkan dataset, membangun model dengan ResNet50, serta mengintegrasikan hasil prediksi dengan narasi cerita relief.  |
-| **Muhammad Solihin**               | MC223D5Y1069       | Machine Learning     | |
-| **Andreas Adi Prasetyo**      | MC615D5Y1588       | Machine Learning     |  |
+| **Reza Nagita Nurhazizah**   | MC179D5X1628        | Machine Learning     | Mengumpulkan dan membersihkan dataset, Mengelompokkan gambar berdasarkan narasi yang sesuai, membangun model dengan ResNet50, serta mengintegrasikan hasil prediksi dengan narasi cerita relief.  |
+| **Muhammad Solihin**               | MC223D5Y1069       | Machine Learning     | Mengumpulkan dataset, Mencari referensi dari dataset,Mengelompokkan gambar berdasarkan narasi yang sesuai, deploy model menggunakan huggingface|
+| **Andreas Adi Prasetyo**      | MC615D5Y1588       | Machine Learning     | Mengumpulkan dataset, Mengelompokkan gambar berdasarkan narasi yang sesuai, Visualisasi dan evaluasi model, membuat API ML menggunakan Fast API|
 | **Siti Fatimah Nur Cahya**          | FC179D5X2260       | FEBE   | Membuat database, input data cerita dan gambar, membuat tampilan halaman (User: Explore dan Detail Pustaka; Admin : Dashboard dan Daftar Pengguna) |
 | **Maya Putri Nur Fajri**           | FC613D5X0961       | FEBE   | Membuat Rest API, membuat tampilan halaman (User: Dafar, Masuk, Unggah Gambar; Admin : Dashboard dan data cerita)|
 | **Firdy Dwi Aryani**                 | FC223D5X0935       | FEBE     | Integrasi AI/ML ke Back-End, membuat tampilan halaman (User:  Beranda, Pustaka; Admin : Dashboard, riwayat pengguna, profil) |
 
-## 🕵️‍♂️ Informasi Branch
+## 🕵️‍♂️ Informasi Repository
 1. 🧩 **Front_End Back_End** 
 
 | Teknologi/Library      | Fungsi                                                             |
@@ -40,7 +40,8 @@ Borobudur Tales adalah sebuah platform edukatif digital yang dikembangkan untuk 
 | **Visual Studio Code** | Editor kode utama dalam proses pengembangan frontend dan backend   |
 
 3. 🧩 **Machine Learning** Pengembangan AI
-                                                                        
+    [Repository ML](https://github.com/BorobudurTales/BorobudurTales-ML-Model)
+                                                                     
 | Teknologi/Library              | Fungsi                                                                             |
 | ------------------------------ | ---------------------------------------------------------------------------------- |
 | **TensorFlow**                 | Framework utama untuk membangun model deep learning                                |
@@ -50,6 +51,3 @@ Borobudur Tales adalah sebuah platform edukatif digital yang dikembangkan untuk 
 | **FastAPI**                    | Web framework Python untuk membungkus model ML ke dalam API yang cepat dan ringan  |
 | **H5 (.h5 file)**              | Format file untuk menyimpan fitur gambar dan metadata dalam proses retrieval       |
 | **Hugging Face Spaces**        | Platform deployment agar API ML dapat diakses online oleh backend/frontend         |
-
-## Cara Menjalankan Proyek
-
