@@ -8,7 +8,7 @@ Borobudur Tales adalah sebuah platform edukatif digital yang dikembangkan untuk 
 ![image](https://github.com/user-attachments/assets/728dcef0-ff30-4e45-84fa-79c64f2031e7)
 
 ## 🎥**Demo**
-[Demo Website Borobudur Tales](https://drive.google.com/file/d/1uY6jDRPIOldnMpexxEdgvkDmDdap-vNP/view?usp=sharing)
+[Video Demo Website Borobudur Tales](https://drive.google.com/file/d/1uY6jDRPIOldnMpexxEdgvkDmDdap-vNP/view?usp=sharing)
 
 ---
 
