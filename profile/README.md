@@ -45,6 +45,7 @@ Borobudur Tales adalah sebuah platform edukatif digital yang dikembangkan untuk 
 | **Tailwind CSS**       | Library CSS utility-first untuk styling antarmuka secara responsif |
 | **Laravel Breeze**     | Starter kit untuk fitur autentikasi dasar (login & register)       |
 | **Auth Sanctum**       | Autentikasi token berbasis API untuk keamanan akses pengguna       |
+| **RestAPI**            | Menghubungkan antarmuka pengguna dengan server                     |
 | **MySQL**              | Database utama untuk menyimpan data pengguna, cerita, dan pustaka  |
 | **Figma**              | Mendesain UI/UX aplikasi sebelum pengembangan                      |
 | **Visual Studio Code** | Editor kode utama dalam proses pengembangan frontend dan backend   |
